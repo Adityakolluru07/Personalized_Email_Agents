@@ -1,0 +1,5 @@
+crewai
+load-dotenv
+crewai-tools
+langchain-groq
+pydantic
